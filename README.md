@@ -36,3 +36,15 @@ this repo is for showcasing my solutions on frontendmentor.io
 ## clipboard-landing-page
 - Solution URL: [solution](https://github.com/mohamedyasser27/clipboard-landing-page/)
 - Live Site URL: [site](https://mohamedyasser27.github.io/clipboard-landing-page/)
+
+## Notifications Page
+- Solution URL: [solution](https://github.com/mohamedyasser27/notifications-page-main)
+- Live Site URL: [site](https://mohamedyasser27.github.io/notifications-page-main/)
+
+## Intro component with sign up form
+- Solution URL: [repo](https://github.com/mohamedyasser27/Intro-component-with-sign-up-form)
+- Live Site URL: [site](https://mohamedyasser27.github.io/Intro-component-with-sign-up-form/)
+
+## advice generator App
+- Solution URL: [solution](https://github.com/mohamedyasser27/advice-generator-app)
+- Live Site URL: [site](https://mohamedyasser27.github.io/advice-generator-app)
