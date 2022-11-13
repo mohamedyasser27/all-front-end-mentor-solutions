@@ -1,5 +1,5 @@
-# all-front-end-mentor-olutions
-this repo is for showcasing my solutions on frontendmentor.io
+# all front end mentor solutions
+this repo is for showcasing my solutions for frontendmentor.io
 
 ## Project tracking intro component
 - Solution URL: [solution](https://github.com/mohamedyasser27/project-tracking-intro-component)
