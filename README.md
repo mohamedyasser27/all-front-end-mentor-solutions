@@ -48,3 +48,8 @@ this repo is for showcasing my solutions for frontendmentor.io
 ## advice generator App
 - Solution URL: [solution](https://github.com/mohamedyasser27/advice-generator-app)
 - Live Site URL: [site](https://mohamedyasser27.github.io/advice-generator-app)
+
+## Huddle landing page with alternating feature blocks solution
+
+- Solution URL: [solution](https://github.com/mohamedyasser27/huddle-landing-page-with-alternating-feature-blocks)
+- Live Site URL: [site](https://mohamedyasser27.github.io/huddle-landing-page-with-alternating-feature-blocks)
