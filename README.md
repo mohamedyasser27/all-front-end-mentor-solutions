@@ -53,3 +53,8 @@ this repo is for showcasing my solutions for frontendmentor.io
 
 - Solution URL: [solution](https://github.com/mohamedyasser27/huddle-landing-page-with-alternating-feature-blocks)
 - Live Site URL: [site](https://mohamedyasser27.github.io/huddle-landing-page-with-alternating-feature-blocks)
+
+## social media dashboard with theme switcher
+- Solution URL: [solution](https://github.com/mohamedyasser27/social-media-dashboard-with-theme-switcher)
+- Live Site URL: [site](https://mohamedyasser27.github.io/social-media-dashboard-with-theme-switcher)
+
