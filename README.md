@@ -50,7 +50,6 @@ this repo is for showcasing my solutions for frontendmentor.io
 - Live Site URL: [site](https://mohamedyasser27.github.io/advice-generator-app)
 
 ## Huddle landing page with alternating feature blocks solution
-
 - Solution URL: [solution](https://github.com/mohamedyasser27/huddle-landing-page-with-alternating-feature-blocks)
 - Live Site URL: [site](https://mohamedyasser27.github.io/huddle-landing-page-with-alternating-feature-blocks)
 
@@ -58,3 +57,6 @@ this repo is for showcasing my solutions for frontendmentor.io
 - Solution URL: [solution](https://github.com/mohamedyasser27/social-media-dashboard-with-theme-switcher)
 - Live Site URL: [site](https://mohamedyasser27.github.io/social-media-dashboard-with-theme-switcher)
 
+## Sunnyside agency landing page
+- Solution URL: [solution](https://github.com/mohamedyasser27/Sunnyside-agency-landing-page)
+- Live Site URL: [site](https://mohamedyasser27.github.io/Sunnyside-agency-landing-page)
