@@ -60,3 +60,7 @@ this repo is for showcasing my solutions for frontendmentor.io
 ## Sunnyside agency landing page
 - Solution URL: [solution](https://github.com/mohamedyasser27/Sunnyside-agency-landing-page)
 - Live Site URL: [site](https://mohamedyasser27.github.io/Sunnyside-agency-landing-page)
+
+## loopstudios landing page
+- Solution URL: [solution](https://github.com/mohamedyasser27/loopstudios-landing-page)
+- Live Site URL: [site](https://mohamedyasser27.github.io/loopstudios-landing-page/)
