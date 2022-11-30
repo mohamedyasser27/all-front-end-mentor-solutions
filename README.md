@@ -64,3 +64,7 @@ this repo is for showcasing my solutions for frontendmentor.io
 ## loopstudios landing page
 - Solution URL: [solution](https://github.com/mohamedyasser27/loopstudios-landing-page)
 - Live Site URL: [site](https://mohamedyasser27.github.io/loopstudios-landing-page/)
+
+##  news-homepage
+- Solution URL: [solution](https://github.com/mohamedyasser27/News-homepage)
+- Live Site URL: [site](https://mohamedyasser27.github.io/News-homepage)
