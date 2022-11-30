@@ -68,3 +68,7 @@ this repo is for showcasing my solutions for frontendmentor.io
 ##  news-homepage
 - Solution URL: [solution](https://github.com/mohamedyasser27/News-homepage)
 - Live Site URL: [site](https://mohamedyasser27.github.io/News-homepage)
+
+## testimonials grid section
+- Solution URL: [solution](https://github.com/mohamedyasser27/testimonials-grid-section)
+- Live Site URL: [site](https://mohamedyasser27.github.io/testimonials-grid-section)
