@@ -74,3 +74,7 @@ this repo is for showcasing my solutions for frontendmentor.io
 ### 18) testimonials grid section
 - Solution URL: [solution](https://github.com/mohamedyasser27/testimonials-grid-section)
 - Live Site URL: [site](https://mohamedyasser27.github.io/testimonials-grid-section)
+
+### 19) Fylo dark theme landing page
+- Solution URL: [solution](https://github.com/mohamedyasser27/fylo-dark-theme-landing-page)
+- Live Site URL: [site](https://mohamedyasser27.github.io/fylo-dark-theme-landing-page)
