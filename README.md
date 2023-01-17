@@ -78,3 +78,9 @@ this repo is for showcasing my solutions for frontendmentor.io
 ### 19) Fylo dark theme landing page
 - Solution URL: [solution](https://github.com/mohamedyasser27/fylo-dark-theme-landing-page)
 - Live Site URL: [site](https://mohamedyasser27.github.io/fylo-dark-theme-landing-page)
+
+## Intermediate level
+
+### 1) Todo App 
+- Solution URL: [solution](https://github.com/mohamedyasser27/todo-app)
+- Live Site URL: [site](https://mohamed-yasser-todo-app.netlify.app/)
