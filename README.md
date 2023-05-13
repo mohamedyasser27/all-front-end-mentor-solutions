@@ -89,3 +89,9 @@ this repo is for showcasing my solutions for frontendmentor.io
 ### 2) Ip Address Tracker 
 - Solution URL: [solution](https://github.com/mohamedyasser27/ip-address-tracker)
 - Live Site URL: [site](https://ip-address-tracker-my.netlify.app/)
+
+## Advanced level
+
+### 2) REST Countries API with color theme switcher
+- Solution URL: [solution](https://github.com/mohamedyasser27/rest-api-countries)
+- Live Site URL: [site](https://rest-countries-api-my.netlify.app/)
